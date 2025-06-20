@@ -37,10 +37,10 @@ A comprehensive blockchain security platform for the TRON network that combines 
 - **🔗 Connection Mapping**: Graph-based relationship analysis and transaction flow tracking
 
 ### 🗄️ Comprehensive Databases
-- **🏦 Exchange Database**: 25+ major exchanges (Binance, Huobi, OKX, Coinbase, etc.)
-- **⚠️ Malicious Addresses**: 500+ verified scammer and fraudulent wallets with incident details
-- **🪙 Token Registry**: 50+ major TRC20 tokens with risk classifications and market data
-- **📜 Smart Contracts**: 100+ verified contracts with security assessments
+- **🏦 Exchange Database**:  major exchanges (Binance, Huobi, OKX, Coinbase, etc.)
+- **⚠️ Malicious Addresses**: verified scammer and fraudulent wallets with incident details
+- **🪙 Token Registry**:  major TRC20 tokens with risk classifications and market data
+- **📜 Smart Contracts**:  verified contracts with security assessments
 - **🔄 Auto-Updates**: Automated database updates from multiple threat intelligence sources
 
 ### 📊 Professional Reporting
