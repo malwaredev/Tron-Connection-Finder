@@ -16,7 +16,7 @@ A comprehensive blockchain security platform for the TRON network that combines 
 - **Risk Assessment**: Multi-factor scoring system for wallet evaluation and due diligence
 
 ### 🕵️ Threat Intelligence & Investigation
-- **Malicious Address Detection**: Database of 500+ verified scammer and fraudulent wallets
+- **Malicious Address Detection**: Database of verified scammer and fraudulent wallets
 - **Attack Pattern Recognition**: ML algorithms trained on known exploit signatures
 - **Network Analysis**: Complex transaction flow tracking and relationship mapping
 - **Real-time Monitoring**: Live TRON network scanning with automated threat detection
