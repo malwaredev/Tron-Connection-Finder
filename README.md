@@ -16,7 +16,7 @@ A comprehensive blockchain security platform for the TRON network that combines 
 - **Risk Assessment**: Multi-factor scoring system for wallet evaluation and due diligence
 
 ### 🕵️ Threat Intelligence & Investigation
-- **Malicious Address Detection**: Database of 500+ verified scammer and fraudulent wallets
+- **Malicious Address Detection**: Database of verified scammer and fraudulent wallets
 - **Attack Pattern Recognition**: ML algorithms trained on known exploit signatures
 - **Network Analysis**: Complex transaction flow tracking and relationship mapping
 - **Real-time Monitoring**: Live TRON network scanning with automated threat detection
@@ -37,10 +37,10 @@ A comprehensive blockchain security platform for the TRON network that combines 
 - **🔗 Connection Mapping**: Graph-based relationship analysis and transaction flow tracking
 
 ### 🗄️ Comprehensive Databases
-- **🏦 Exchange Database**: 25+ major exchanges (Binance, Huobi, OKX, Coinbase, etc.)
-- **⚠️ Malicious Addresses**: 500+ verified scammer and fraudulent wallets with incident details
-- **🪙 Token Registry**: 50+ major TRC20 tokens with risk classifications and market data
-- **📜 Smart Contracts**: 100+ verified contracts with security assessments
+- **🏦 Exchange Database**:  major exchanges (Binance, Huobi, OKX, Coinbase, etc.)
+- **⚠️ Malicious Addresses**: verified scammer and fraudulent wallets with incident details
+- **🪙 Token Registry**:  major TRC20 tokens with risk classifications and market data
+- **📜 Smart Contracts**:  verified contracts with security assessments
 - **🔄 Auto-Updates**: Automated database updates from multiple threat intelligence sources
 
 ### 📊 Professional Reporting
@@ -235,7 +235,7 @@ results/
 
 ## 🗄️ Database Information
 
-### Exchange Database (25+ Exchanges)
+### Exchange Database
 ```python
 # Major exchanges included:
 - Binance (multiple wallets)
@@ -249,7 +249,7 @@ results/
 - And 17+ more...
 ```
 
-### Malicious Address Database (500+ Addresses)
+### Malicious Address Database
 ```python
 # Categories included:
 - Rug pull schemes (50+ incidents)
@@ -261,7 +261,7 @@ results/
 - Recent 2024-2025 incidents included
 ```
 
-### Token Classification Database (50+ Tokens)
+### Token Classification Database
 ```python
 # Major tokens included:
 - USDT (TRC20) - Stablecoin
@@ -273,7 +273,7 @@ results/
 - And 44+ more with risk classifications
 ```
 
-### Smart Contract Database (100+ Contracts)
+### Smart Contract Database
 ```python
 # Contract types:
 - DeFi protocols (Uniswap, SunSwap, etc.)
