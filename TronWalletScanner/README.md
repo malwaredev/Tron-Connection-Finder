@@ -235,7 +235,7 @@ results/
 
 ## 🗄️ Database Information
 
-### Exchange Database (25+ Exchanges)
+### Exchange Database
 ```python
 # Major exchanges included:
 - Binance (multiple wallets)
@@ -249,7 +249,7 @@ results/
 - And 17+ more...
 ```
 
-### Malicious Address Database (500+ Addresses)
+### Malicious Address Database
 ```python
 # Categories included:
 - Rug pull schemes (50+ incidents)
@@ -261,7 +261,7 @@ results/
 - Recent 2024-2025 incidents included
 ```
 
-### Token Classification Database (50+ Tokens)
+### Token Classification Database
 ```python
 # Major tokens included:
 - USDT (TRC20) - Stablecoin
@@ -273,7 +273,7 @@ results/
 - And 44+ more with risk classifications
 ```
 
-### Smart Contract Database (100+ Contracts)
+### Smart Contract Database
 ```python
 # Contract types:
 - DeFi protocols (Uniswap, SunSwap, etc.)
