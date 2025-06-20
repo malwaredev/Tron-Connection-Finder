@@ -1,0 +1,19 @@
+address,wallet_type,wallet_subtype,type_confidence,risk_score,unique_incoming,unique_outgoing,token_types,avg_incoming,avg_outgoing,io_ratio,active_days,risk_indicators,patterns
+TWd4WrZ9wn84f5x1hZhL4DHvk738ns5jwb,contract,,0.6,40,39,7,3,0.0,0.0,2.5357142857142856,0.0,large_inflow: Large incoming transfer of 145685441.539 TRX from TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf; large_outflow: Large outgoing transfer of 200000000.0 TRX to TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf; large_outflow: Large outgoing transfer of 100000000.0 TRX to TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf; large_inflow: Large incoming transfer of 208892370.066 TRX from TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf,frequent_amount: 0.0 TRX/tokens occurs 22 times (71.0% of transactions)
+TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM,personal,,0.6,0,15,2,1,0.0,0.0,3.0,0.0,,frequent_amount: 0.0 TRX/tokens occurs 11 times (61.1% of transactions)
+TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T,personal,,0.6,0,9,2,1,0.0,0.0,1.6666666666666667,0.0,,frequent_amount: 0.0 TRX/tokens occurs 6 times (46.2% of transactions)
+TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A,personal,,0.6,0,4,3,1,0.0,0.0,1.3333333333333333,0.0,,
+TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW,personal,hodler,0.7,0,10,2,1,0.0,0.0,5.0,0.0,,frequent_amount: 0.0 TRX/tokens occurs 4 times (66.7% of transactions)
+TBvBVwJhM88ewcq2xNP2N21gEC6HazVqZC,personal,hodler,0.7,0,16,1,1,0.0,0.0,18.0,0.0,,frequent_amount: 0.0 TRX/tokens occurs 7 times (43.8% of transactions); frequent_amount: 0.01 TRX/tokens occurs 6 times (37.5% of transactions)
+TEsNXJrBUB1pKxQHhpY7ByeJyYBUQaEPM8,personal,hodler,0.7,0,2,0,0,0.0,0.0,0.0,3.472222222222222e-05,,
+TMZwm3xLsVXEzsnz6fLiptdd7QFj5cc3rm,personal,,0.6,0,8,3,1,0.0,0.0,3.0,0.0,,business_hours: 90.9% of transactions occur during business hours
+TMbBLEsSFyzbTXLqT1d7HXu7Ud6JsD87gL,personal,,0.6,0,8,3,1,0.0,0.0,2.6666666666666665,0.0,,frequent_amount: 0.0 TRX/tokens occurs 3 times (50.0% of transactions)
+TPfKFeSNkBvDK2en44SebpMnKHdDhcY4YV,contract,,0.6,0,47,4,2,0.0,0.0,3.176470588235294,0.0,,frequent_amount: 0.0 TRX/tokens occurs 26 times (57.8% of transactions); frequent_amount: 0.01 TRX/tokens occurs 6 times (13.3% of transactions)
+TJzPf3sJ9UaqHPdcu9Jzia6dCVCMpMAvtb,contract,,0.6,0,27,1,2,0.0,0.0,26.5,0.0,,frequent_amount: 0.0 TRX/tokens occurs 19 times (38.0% of transactions)
+TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ,personal,,0.6,0,11,10,2,0.0,0.0,0.8518518518518519,0.0,,
+TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr,contract,,0.6,0,22,15,1,0.0,0.0,3.090909090909091,0.0,,frequent_amount: 0.0 TRX/tokens occurs 27 times (64.3% of transactions)
+TMT49u6fXDW27B1EYpL6rapqy8AywnRida,personal,,0.6,0,12,3,1,0.0,0.0,2.7777777777777777,0.0,,
+TBc9ApigG5ReHXoUTP73Nk6iHykoSxH6f3,contract,,0.6,0,39,8,2,0.0,0.0,3.076923076923077,0.0,,frequent_amount: 0.0 TRX/tokens occurs 23 times (54.8% of transactions)
+TBC8Qf6waDh521UTcyorRnBeYJqrL9HQBG,personal,,0.6,0,6,2,1,0.0,0.0,3.0,0.0,,night_activity: 60.0% of transactions occur during night hours (midnight-4am)
+TEFccmfQ38cZS1DTZVhsxKVDckA8Y6VfCy,unknown,,0.0,0,84,3,1,0.0,0.0,24.0,0.0,,frequent_amount: 0.0 TRX/tokens occurs 30 times (62.5% of transactions)
+TLuYbfF6qR4p5Ug8CttUbgLT32eRjxQmEm,personal,,0.6,0,11,4,1,0.0,0.0,2.75,0.0,,frequent_amount: 0.0 TRX/tokens occurs 7 times (58.3% of transactions); business_hours: 100.0% of transactions occur during business hours

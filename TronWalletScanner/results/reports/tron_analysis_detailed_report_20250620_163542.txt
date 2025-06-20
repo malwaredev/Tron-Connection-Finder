@@ -1,0 +1,408 @@
+================================================================================
+TRON WALLET ANALYSIS REPORT
+Generated on: 2025-06-20 16:35:42
+================================================================================
+
+SUMMARY STATISTICS
+----------------------------------------
+Total Addresses Analyzed: 21
+Valid Addresses: 21
+Active Addresses: 18
+Connections Found: 5
+
+DETAILED ADDRESS ANALYSIS
+--------------------------------------------------------------------------------
+
+Address: TWd4WrZ9wn84f5x1hZhL4DHvk738ns5jwb
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 224620146.685573 TRX
+Transactions: 100
+Sent Volume: 300000000.000000 TRX
+Received Volume: 354577842.667872 TRX
+Unique Connections: 16
+Transaction Types:
+  - Unknown Transaction: 50
+  - Token Transfer: 50
+Token Activity:
+  - Sent 10646059889344182372527341830144.000000 ???
+  - Sent 53949747970258000.000000 WIN
+  - Sent 500000000000000.000000 USDT
+  - Received 3730602636307201.000000 USDT
+  - Received 4343910505911850069157168021504.000000 ???
+  - Received 49091901359457000.000000 WIN
+Wallet Type: Contract
+Risk Score: 40/100
+Risk Indicators:
+  - large_inflow: Large incoming transfer of 145685441.539 TRX from TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf
+  - large_outflow: Large outgoing transfer of 200000000.0 TRX to TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf
+  - large_outflow: Large outgoing transfer of 100000000.0 TRX to TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf
+  - large_inflow: Large incoming transfer of 208892370.066 TRX from TDqSquXBgUCLYvYC4XZgrprLK589dkhSCf
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 22 times (71.0% of transactions)
+
+Address: TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 22.744431 TRX
+Transactions: 24
+Sent Volume: 116.529589 TRX
+Received Volume: 811.629600 TRX
+Unique Connections: 4
+Transaction Types:
+  - Unknown Transaction: 22
+  - Token Transfer: 2
+Token Activity:
+  - Sent 100000000.000000 USDT
+  - Received 100000000.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 11 times (61.1% of transactions)
+
+Address: TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 20.530043 TRX
+Transactions: 16
+Sent Volume: 76.000000 TRX
+Received Volume: 1352.529603 TRX
+Unique Connections: 3
+Transaction Types:
+  - Unknown Transaction: 15
+  - Token Transfer: 1
+Token Activity:
+  - Received 100000000.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 6 times (46.2% of transactions)
+
+Address: TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.000000 TRX
+Transactions: 7
+Sent Volume: 27.566231 TRX
+Received Volume: 42.062131 TRX
+Unique Connections: 4
+Transaction Types:
+  - Unknown Transaction: 5
+  - Token Transfer: 2
+Token Activity:
+  - Sent 1000000000.000000 USDT
+  - Received 1000000000.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+
+Address: TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.310339 TRX
+Transactions: 12
+Sent Volume: 0.000000 TRX
+Received Volume: 46.455127 TRX
+Unique Connections: 7
+Transaction Types:
+  - Unknown Transaction: 7
+  - Token Transfer: 5
+Token Activity:
+  - Sent 2054053683.000000 USDT
+  - Received 2054053683.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 4 times (66.7% of transactions)
+
+Address: TR5Me5uzJbko3CnJeoep9Ti65xtGysBfzf
+------------------------------------------------------------
+Status: NOT FOUND - Address not found or has no data
+
+Address: TBvBVwJhM88ewcq2xNP2N21gEC6HazVqZC
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.000001 TRX
+Transactions: 19
+Sent Volume: 55.820006 TRX
+Received Volume: 673.879917 TRX
+Unique Connections: 7
+Transaction Types:
+  - Unknown Transaction: 16
+  - Token Transfer: 3
+Token Activity:
+  - Received 40647515.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 7 times (43.8% of transactions)
+  - frequent_amount: 0.01 TRX/tokens occurs 6 times (37.5% of transactions)
+
+Address: TEsNXJrBUB1pKxQHhpY7ByeJyYBUQaEPM8
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 156.350744 TRX
+Transactions: 2
+Sent Volume: 0.000000 TRX
+Received Volume: 156.350744 TRX
+Unique Connections: 1
+Transaction Types:
+  - Unknown Transaction: 2
+Wallet Type: Personal
+Risk Score: 0/100
+
+Address: TMZwm3xLsVXEzsnz6fLiptdd7QFj5cc3rm
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.000000 TRX
+Transactions: 18
+Sent Volume: 64.798007 TRX
+Received Volume: 70.000007 TRX
+Unique Connections: 7
+Transaction Types:
+  - Unknown Transaction: 11
+  - Token Transfer: 7
+Token Activity:
+  - Sent 22300000.000000 USDT
+  - Received 22310000.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - business_hours: 90.9% of transactions occur during business hours
+
+Address: TMbBLEsSFyzbTXLqT1d7HXu7Ud6JsD87gL
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.000000 TRX
+Transactions: 11
+Sent Volume: 2.744107 TRX
+Received Volume: 30.618007 TRX
+Unique Connections: 6
+Transaction Types:
+  - Unknown Transaction: 7
+  - Token Transfer: 4
+Token Activity:
+  - Sent 1114000000.000000 USDT
+  - Received 1114001114.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 3 times (50.0% of transactions)
+
+Address: TSYYsKHeRDcR7boyUwNoJG3Cat7ZudXmYb
+------------------------------------------------------------
+Status: NOT FOUND - Address not found or has no data
+
+Address: TPfKFeSNkBvDK2en44SebpMnKHdDhcY4YV
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.000001 TRX
+Transactions: 71
+Sent Volume: 1614.416419 TRX
+Received Volume: 1588.717626 TRX
+Unique Connections: 20
+Transaction Types:
+  - Unknown Transaction: 50
+  - Token Transfer: 21
+Token Activity:
+  - Sent 17472324388.000000 USDT
+  - Received 17472324388.000000 USDT
+  - Received 34478029740.000000 ???
+Wallet Type: Contract
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 26 times (57.8% of transactions)
+  - frequent_amount: 0.01 TRX/tokens occurs 6 times (13.3% of transactions)
+
+Address: TJzPf3sJ9UaqHPdcu9Jzia6dCVCMpMAvtb
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.095318 TRX
+Transactions: 55
+Sent Volume: 3174.400000 TRX
+Received Volume: 18493.872571 TRX
+Unique Connections: 9
+Transaction Types:
+  - Unknown Transaction: 50
+  - Token Transfer: 5
+Token Activity:
+  - Received 60720000.000000 USDT
+  - Received 123123000000300007424.000000 ???
+Wallet Type: Contract
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 19 times (38.0% of transactions)
+
+Address: TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 10.221341 TRX
+Transactions: 50
+Sent Volume: 0.000000 TRX
+Received Volume: 0.000000 TRX
+Unique Connections: 17
+Transaction Types:
+  - Token Transfer: 50
+Token Activity:
+  - Sent 750000000.000000 USDT
+  - Sent 46000000000270003421052928.000000 ???
+  - Received 45087828466450897240588288.000000 ???
+  - Received 750575872.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+
+Address: TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 1.383038 TRX
+Transactions: 100
+Sent Volume: 2260.504850 TRX
+Received Volume: 2280.000851 TRX
+Unique Connections: 16
+Transaction Types:
+  - Unknown Transaction: 50
+  - Token Transfer: 50
+Token Activity:
+  - Sent 27000000000000038738591744.000000 ???
+  - Received 27214391499000837830606848.000000 ???
+Wallet Type: Contract
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 27 times (64.3% of transactions)
+
+Address: TMT49u6fXDW27B1EYpL6rapqy8AywnRida
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 15.000000 TRX
+Transactions: 34
+Sent Volume: 63.120764 TRX
+Received Volume: 1002.699220 TRX
+Unique Connections: 11
+Transaction Types:
+  - Unknown Transaction: 16
+  - Token Transfer: 18
+Token Activity:
+  - Sent 2766626491.000000 USDT
+  - Received 2766626491.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+
+Address: TBc9ApigG5ReHXoUTP73Nk6iHykoSxH6f3
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 0.000002 TRX
+Transactions: 58
+Sent Volume: 1385.512173 TRX
+Received Volume: 3244.258014 TRX
+Unique Connections: 22
+Transaction Types:
+  - Unknown Transaction: 50
+  - Token Transfer: 8
+Token Activity:
+  - Sent 357915321.000000 USDT
+  - Received 357915321.000000 USDT
+  - Received 47676000000.000000 ???
+Wallet Type: Contract
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 23 times (54.8% of transactions)
+
+Address: TBC8Qf6waDh521UTcyorRnBeYJqrL9HQBG
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 10.604100 TRX
+Transactions: 8
+Sent Volume: 0.000000 TRX
+Received Volume: 32.898888 TRX
+Unique Connections: 7
+Transaction Types:
+  - Unknown Transaction: 5
+  - Token Transfer: 3
+Token Activity:
+  - Sent 1010000000.000000 USDT
+  - Received 1010000000.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - night_activity: 60.0% of transactions occur during night hours (midnight-4am)
+
+Address: TEFccmfQ38cZS1DTZVhsxKVDckA8Y6VfCy
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 1460.436663 TRX
+Transactions: 100
+Sent Volume: 0.000000 TRX
+Received Volume: 724.573502 TRX
+Unique Connections: 56
+Transaction Types:
+  - Unknown Transaction: 50
+  - Token Transfer: 50
+Token Activity:
+  - Sent 10279354786.000000 USDT
+  - Received 13135745058.000000 USDT
+Wallet Type: Unknown
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 30 times (62.5% of transactions)
+
+Address: TLuYbfF6qR4p5Ug8CttUbgLT32eRjxQmEm
+------------------------------------------------------------
+Status: ACTIVE
+Balance: 21.425106 TRX
+Transactions: 15
+Sent Volume: 145.894517 TRX
+Received Volume: 9085.655523 TRX
+Unique Connections: 7
+Transaction Types:
+  - Unknown Transaction: 13
+  - Token Transfer: 2
+Token Activity:
+  - Sent 10000000.000000 USDT
+  - Received 21971170.000000 USDT
+Wallet Type: Personal
+Risk Score: 0/100
+Transaction Patterns:
+  - frequent_amount: 0.0 TRX/tokens occurs 7 times (58.3% of transactions)
+  - business_hours: 100.0% of transactions occur during business hours
+
+Address: TKD8tLboY4mpVbJ2H6hRjd7fRwyJj1qm52
+------------------------------------------------------------
+Status: NOT FOUND - Address not found or has no data
+
+CONNECTION ANALYSIS
+--------------------------------------------------------------------------------
+
+From: TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM
+To: TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T
+TRX Sent: 116.529589
+TRX Received: 76.000000
+Transaction Count: 6
+Strength: 136.57
+----------------------------------------
+From: TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T
+To: TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM
+TRX Sent: 76.000000
+TRX Received: 116.529589
+Transaction Count: 6
+Strength: 136.57
+----------------------------------------
+From: TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A
+To: TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW
+TRX Sent: 27.566231
+TRX Received: 0.000000
+Transaction Count: 1
+Strength: 19.60
+----------------------------------------
+From: TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW
+To: TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A
+TRX Sent: 0.000000
+TRX Received: 27.566231
+Transaction Count: 1
+Strength: 19.60
+----------------------------------------
+From: TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr
+To: TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ
+TRX Sent: 2173.500000
+TRX Received: 2180.000000
+Transaction Count: 13
+Strength: 3051.35
+----------------------------------------

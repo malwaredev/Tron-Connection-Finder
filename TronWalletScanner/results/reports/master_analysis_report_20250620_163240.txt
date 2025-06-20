@@ -1,0 +1,103 @@
+================================================================================
+ADVANCED TRON WALLET ANALYSIS REPORT - 2025-06-20 16:32:40
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total Addresses Analyzed: 12
+Active Addresses: 12
+Total Connections Found: 0
+Total Transactions Processed: 0
+Analysis Runtime: 16 seconds
+
+Wallet Type Distribution:
+  Whale: 1 (8.3%)
+  Personal: 11 (91.7%)
+
+Risk Distribution:
+  High Risk (75-100): 0 addresses
+  Medium Risk (25-74): 0 addresses
+  Low Risk (0-24): 12 addresses
+
+
+HIGH RISK ADDRESSES
+--------------------------------------------------------------------------------
+No high-risk addresses identified.
+
+KEY CONNECTIONS
+--------------------------------------------------------------------------------
+
+DETAILED ADDRESS INFORMATION
+--------------------------------------------------------------------------------
+
+Address: TWd4WrZ9wn84f5x1hZhL4DHvk738ns5jwb
+  Wallet Type: Whale (High-Value Wallet)
+  Balance: 224620146.69 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 0.00 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 0.31 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TBvBVwJhM88ewcq2xNP2N21gEC6HazVqZC
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 0.00 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TMZwm3xLsVXEzsnz6fLiptdd7QFj5cc3rm
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 0.00 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TPfKFeSNkBvDK2en44SebpMnKHdDhcY4YV
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 0.00 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TJzPf3sJ9UaqHPdcu9Jzia6dCVCMpMAvtb
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 0.10 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 10.22 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 1.38 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TMT49u6fXDW27B1EYpL6rapqy8AywnRida
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 15.00 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TBC8Qf6waDh521UTcyorRnBeYJqrL9HQBG
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 10.60 TRX
+  Transactions: 0
+  Risk Score: 0/100
+
+Address: TLuYbfF6qR4p5Ug8CttUbgLT32eRjxQmEm
+  Wallet Type: Personal (Individual Wallet)
+  Balance: 21.43 TRX
+  Transactions: 0
+  Risk Score: 0/100

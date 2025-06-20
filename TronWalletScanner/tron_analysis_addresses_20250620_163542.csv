@@ -1,0 +1,22 @@
+address,valid,exists,balance_trx,transactions_count,unique_connections,sent_volume,received_volume,sent_count,received_count,wallet_type,wallet_subtype,risk_score,patterns,active_period_days,error
+TWd4WrZ9wn84f5x1hZhL4DHvk738ns5jwb,True,True,224620146.685573,100,16,300000000.0,354577842.6678721,15.0,65.0,contract,,40.0,1.0,0.0,
+TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM,True,True,22.744431,24,4,116.529589,811.6296,2.0,18.0,personal,,0.0,1.0,0.0,
+TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T,True,True,20.530043,16,3,76.0,1352.5296030000004,4.0,10.0,personal,,0.0,1.0,0.0,
+TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A,True,True,0.0,7,4,27.566231,42.062131,2.0,4.0,personal,,0.0,0.0,0.0,
+TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW,True,True,0.310339,12,7,0.0,46.455127000000005,1.0,10.0,personal,hodler,0.0,1.0,0.0,
+TR5Me5uzJbko3CnJeoep9Ti65xtGysBfzf,True,False,0.0,0,0,0.0,0.0,,,,,,,,Address not found or has no data
+TBvBVwJhM88ewcq2xNP2N21gEC6HazVqZC,True,True,1e-06,19,7,55.820006,673.8799169999999,1.0,18.0,personal,hodler,0.0,2.0,0.0,
+TEsNXJrBUB1pKxQHhpY7ByeJyYBUQaEPM8,True,True,156.350744,2,1,0.0,156.350744,0.0,2.0,personal,hodler,0.0,0.0,3.472222222222222e-05,
+TMZwm3xLsVXEzsnz6fLiptdd7QFj5cc3rm,True,True,0.0,18,7,64.798007,70.000007,2.0,9.0,personal,,0.0,1.0,0.0,
+TMbBLEsSFyzbTXLqT1d7HXu7Ud6JsD87gL,True,True,0.0,11,6,2.744107,30.618007,2.0,8.0,personal,,0.0,1.0,0.0,
+TSYYsKHeRDcR7boyUwNoJG3Cat7ZudXmYb,True,False,0.0,0,0,0.0,0.0,,,,,,,,Address not found or has no data
+TPfKFeSNkBvDK2en44SebpMnKHdDhcY4YV,True,True,1e-06,71,20,1614.416419,1588.7176260000026,10.0,54.0,contract,,0.0,2.0,0.0,
+TJzPf3sJ9UaqHPdcu9Jzia6dCVCMpMAvtb,True,True,0.095318,55,9,3174.4,18493.872570999985,2.0,53.0,contract,,0.0,1.0,0.0,
+TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ,True,True,10.221341,50,17,0.0,0.0,27.0,23.0,personal,,0.0,0.0,0.0,
+TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr,True,True,1.383038,100,16,2260.5048500000003,2280.000851,20.0,68.0,contract,,0.0,1.0,0.0,
+TMT49u6fXDW27B1EYpL6rapqy8AywnRida,True,True,15.0,34,11,63.120764,1002.69922,5.0,21.0,personal,,0.0,0.0,0.0,
+TBc9ApigG5ReHXoUTP73Nk6iHykoSxH6f3,True,True,2e-06,58,22,1385.512173,3244.258014,10.0,40.0,contract,,0.0,1.0,0.0,
+TBC8Qf6waDh521UTcyorRnBeYJqrL9HQBG,True,True,10.6041,8,7,0.0,32.898888,1.0,6.0,personal,,0.0,1.0,0.0,
+TEFccmfQ38cZS1DTZVhsxKVDckA8Y6VfCy,True,True,1460.436663,100,56,0.0,724.5735019999998,2.0,96.0,unknown,,0.0,1.0,0.0,
+TLuYbfF6qR4p5Ug8CttUbgLT32eRjxQmEm,True,True,21.425106,15,7,145.894517,9085.655523000001,3.0,11.0,personal,,0.0,2.0,0.0,
+TKD8tLboY4mpVbJ2H6hRjd7fRwyJj1qm52,True,False,0.0,0,0,0.0,0.0,,,,,,,,Address not found or has no data

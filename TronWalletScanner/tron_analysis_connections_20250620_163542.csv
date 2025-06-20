@@ -1,0 +1,6 @@
+from_address,to_address,trx_sent,trx_received,sent_count,received_count,strength,token_transfers
+TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM,TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T,116.529589,76.0,2,4,136.5707123,True
+TTMFTv7WNP1uhfrEwfRdNZM8mhHBniiC8T,TPLkGNtjPcEK3PhKqAkr7qKkjhYhpfQZUM,76.0,116.529589,4,2,136.5707123,True
+TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A,TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW,27.566231,0.0,1,0,19.5963617,False
+TBi1BtDjw3JibCNUCGycSwStRZfZi1JPPW,TYAGhnwUQ2aWhwN9nNDw8C3pXRprLit24A,0.0,27.566231,0,1,19.5963617,False
+TQ1TFctjSWzwCouZxM2Q5VNh6azxqpKSAr,TEqAjvCS4G71VYminY8tGnunTjEzKrrQDJ,2173.5,2180.0,7,6,3051.35,True
